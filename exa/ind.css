@@ -1,0 +1,77 @@
+.marg{
+margin :0 auto;
+
+
+
+}
+.cont{
+text-align: center;
+color: #004e66;
+
+
+}
+
+.about{
+ text-align: center;
+
+
+}
+ 
+
+ h3{
+ color:#004e66;
+
+
+ }
+  p{
+
+  color: #6E7783;
+
+
+  }
+
+  .box{
+margin: 33px;
+float: left;
+width: 30%;
+
+
+
+  }
+  .box1{
+margin: 33px;
+float: right;
+width: 30%;
+
+
+
+  }
+  .service{
+text-align: center;
+  padding: 20%;
+
+
+
+  }
+  .cart{
+
+text-align: center;
+
+
+  }
+
+
+    
+
+   .foot {
+     padding: 10px; ;
+    text-align: center;
+    background-color: #1c6497d5;
+    height: 30%;
+
+ 
+
+
+   }
+
+    
